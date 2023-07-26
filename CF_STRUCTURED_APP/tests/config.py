@@ -1,0 +1,1 @@
+APP_PATH = " C:/gr.aueb.Python/projects/CF_STRUCTURED_APP"
